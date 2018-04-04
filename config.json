@@ -5,8 +5,9 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "121494071,83052333",
     "params": {
+        "reservedContent": "test.md,new\/new.md",
         "loginId": "1758823",
         "subfolder": "",
         "firstpartycookies": true,
