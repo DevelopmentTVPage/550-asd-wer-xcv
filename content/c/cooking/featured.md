@@ -1,2 +1,0 @@
-
-{ "title": "Cooking - Featured", "description": "", "date_created": "1442441381", "date_modified": "1522770978", "channelid": "6410335", "type": "captivate", "layout": "channel", "url": "/c/cooking/6410335/featured" }
